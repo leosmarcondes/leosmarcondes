@@ -1,4 +1,4 @@
-### Olá! Eu sou o leosmarcondes 😁
+### Olá! Eu sou o Leonardo dos Santos 😁
 
 - 🔭 Estou trabalhando com Algorítimos de IA/ML em Python e Desenvolvimento Web em NextJS 
 - 🌱 Estou estudando recursos para nuvem da Aws/Azure e aprendendo Express.js 
