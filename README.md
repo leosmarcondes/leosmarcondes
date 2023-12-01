@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Leonardo dos Santos 😁</h1>
 
 👷 Atualmente trabalho com desenvolvimento de algorítimos de IA/ML e aplicações Web.                                                                                                                                                                                              
-🔍 Minhas pesquisas atuais estão concentradas em desenvolver algorítimos de IA/ML para sistemas embarcados e criar API's RESTful para parcerias comerciais. 
+🔍 Minhas pesquisas atuais estão concentradas em desenvolver algorítimos de IA/ML para sistemas embarcados. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
